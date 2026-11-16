@@ -1,0 +1,11 @@
+build/*.o
+build/*.obj
+*.swp
+.DS_Store
+build/p2pnode
+build/p2pnode.exe
+build/p2p-relay
+build/CMakeCache.txt
+build/CMakeFiles/
+build/cmake_install.cmake
+build/Makefile
