@@ -7,7 +7,7 @@
 
 Decentralized peer-to-peer (P2P) voice, text, and file communication system written in C++17. Designed to operate without central registration servers, user accounts, or third-party cloud infrastructure across both global WAN and isolated LAN segments.
 
-Pre-built binaries for Linux and Windows are available at [software.bashgate.com](https://software.bashgate.com/) and [GitHub Releases](https://github.com/bohdanbtw/p2p-node/releases).
+Pre-built binaries for Linux and Windows are available at [software.bashgate.com](https://software.bashgate.com/p2pnode) and [GitHub Releases](https://github.com/bohdanbtw/p2p-node/releases).
 
 ## Features
 
