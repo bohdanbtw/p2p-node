@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-0284C7)](#building-from-source)
-[![License: MIT](https://img.shields.io/badge/License-MIT-0D9488.svg)](https://github.com/bohdanbtw/p2p-node/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0D9488.svg)](https://github.com/bohdanbtw/p2p-node?tab=MIT-1-ov-file)
 [![Downloads](https://img.shields.io/badge/Download-software.bashgate.com-1B365D)](https://software.bashgate.com/p2pnode)
 
 Decentralized peer-to-peer (P2P) voice, text, and file communication system written in C++17. Designed to operate without central registration servers, user accounts, or third-party cloud infrastructure across both global WAN and isolated LAN segments.
